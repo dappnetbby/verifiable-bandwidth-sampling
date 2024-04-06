@@ -1,4 +1,4 @@
-# verifiable-bandwidth-sampling
+# Verifiable bandwidth sampling
 
 **Abstract**. Decentralized data hosting is blocked by the ability to 
 guarantee speed of access. We propose a mechanism called verifiable 
@@ -9,5 +9,3 @@ blockchain consensus protocol. And in doing so, the bandwidth of a
 connection is securely measured. Building upon this result, we can design 
 an automated market maker for data hosting (storage and bandwidth) which 
 can scale horizontally in capacity.
-
-See whitepaper in paper.
